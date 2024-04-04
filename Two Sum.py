@@ -55,3 +55,4 @@ class Solution2(object):
                 return [numToIndex[target-nums[i]], i]
             numToIndex[nums[i]] = i
         return []
+    
